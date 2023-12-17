@@ -2,7 +2,7 @@ import { FiSearch } from "react-icons/fi";
 
 const SearchForm = () => (
   <form
-    className="min-w-0 md:w-full flex-grow flex"
+    className="min-w-0 md:w-full flex-grow flex "
     onSubmit={(ev) => ev.preventDefault()}
   >
     <input
